@@ -11,9 +11,7 @@ This is just a stub.
 ### How to prepare a SQL Server 2019 lab in Virtual Box.pdf
 ### How to prepare a SQL Server 2019 lab in Virtual Box.pdf.pdf
 
+## Virtual Box Lab
 
-## Area 2
-### Not Applicable
-
-# Another final Header
+# YouTube video Reference
 Content content
