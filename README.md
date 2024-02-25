@@ -9,7 +9,8 @@ This is just a stub.
 
 ### Create an ASP NET MVC Project - Step by Step.pdf
 ### How to prepare a SQL Server 2019 lab in Virtual Box.pdf
-### 
+### How to prepare a SQL Server 2019 lab in Virtual Box.pdf.pdf
+
 
 ## Area 2
 ### Not Applicable
